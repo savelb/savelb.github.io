@@ -34,6 +34,12 @@ body {
     height: auto;
 }
 
+.logo-container {
+    text-align: center; /* Center-aligns the logo */
+    margin-bottom: 20px; /* Space below the logo */
+}
+
+
 @media (max-width: 600px) {
     .help-strip, .footer {
         font-size: 1em;
