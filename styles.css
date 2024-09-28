@@ -7,6 +7,16 @@ body {
     color: #fff;
 }
 
+a {
+    color: #1DA1F2; /* Twitter blue */
+    text-decoration: none; /* Optional: remove underline */
+}
+
+a:hover {
+    text-decoration: underline; /* Optional: add underline on hover */
+}
+
+
 .container {
     padding: 20px;
 }
